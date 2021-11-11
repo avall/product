@@ -1,4 +1,4 @@
-# Module Federation Examples
+# Module Federation Examples (Micro Frontend)
 
 This is Product App Example.
 
